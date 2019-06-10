@@ -1,0 +1,96 @@
+Servidor arriba. Hora: 10:51:59.072
+Discover recibido MAC: 1C:17:D3:5D:84:C0 Hora: 10:52:06.228
+Se envia offer a MAC: 1C:17:D3:5D:84:C0 Hora: 10:52:06.230 con la ip: 192.168.10.67 tiempo: 00:01
+Request recibido MAC: 1C:17:D3:5D:84:C0 Hora: 10:52:06.232
+Se envia ack a: 1C:17:D3:5D:84:C0 Hora: 10:52:06.233 con ip: 192.168.10.67
+Discover recibido MAC: 00:25:11:3F:B0:5B Hora: 10:52:13.948
+Se envia offer a MAC: 00:25:11:3F:B0:5B Hora: 10:52:13.948 con la ip: 192.168.10.68 tiempo: 00:01
+Request recibido MAC: 00:25:11:3F:B0:5B Hora: 10:52:13.955
+Se envia ack a: 00:25:11:3F:B0:5B Hora: 10:52:13.955 con ip: 192.168.10.68
+Request recibido MAC: 1C:17:D3:5D:84:C0 Hora: 10:52:40.246
+Se envia ack a: 1C:17:D3:5D:84:C0 Hora: 10:52:40.253 con ip: 192.168.10.67
+Request recibido MAC: 00:25:11:3F:B0:5B Hora: 10:52:44.073
+Se envia ack a: 00:25:11:3F:B0:5B Hora: 10:52:44.074 con ip: 192.168.10.68
+Se libera ip por vencimiento de tiempo: 192.168.10.67 Hora: 10:53:06.241
+Request recibido MAC: 1C:17:D3:5D:84:C0 Hora: 10:53:10.260
+Se envia ack a: 1C:17:D3:5D:84:C0 Hora: 10:53:10.261 con ip: 192.168.10.67
+Se libera ip por vencimiento de tiempo: 192.168.10.68 Hora: 10:53:13.961
+Request recibido MAC: 00:25:11:3F:B0:5B Hora: 10:53:14.105
+Se envia ack a: 00:25:11:3F:B0:5B Hora: 10:53:14.106 con ip: 192.168.10.68
+Se libera ip por vencimiento de tiempo: 192.168.10.67 Hora: 10:53:40.261
+Request recibido MAC: 1C:17:D3:5D:84:C0 Hora: 10:53:40.267
+Se envia ack a: 1C:17:D3:5D:84:C0 Hora: 10:53:40.268 con ip: 192.168.10.67
+Se libera ip por vencimiento de tiempo: 192.168.10.68 Hora: 10:53:44.087
+Request recibido MAC: 00:25:11:3F:B0:5B Hora: 10:53:44.136
+Se envia ack a: 00:25:11:3F:B0:5B Hora: 10:53:44.137 con ip: 192.168.10.68
+Se libera ip por vencimiento de tiempo: 192.168.10.67 Hora: 10:54:10.273
+Request recibido MAC: 1C:17:D3:5D:84:C0 Hora: 10:54:10.274
+Se envia ack a: 1C:17:D3:5D:84:C0 Hora: 10:54:10.280 con ip: 192.168.10.67
+Se libera ip por vencimiento de tiempo: 192.168.10.68 Hora: 10:54:14.117
+Request recibido MAC: 00:25:11:3F:B0:5B Hora: 10:54:14.184
+Se envia ack a: 00:25:11:3F:B0:5B Hora: 10:54:14.185 con ip: 192.168.10.68
+Se libera ip por vencimiento de tiempo: 192.168.10.67 Hora: 10:54:40.274
+Request recibido MAC: 1C:17:D3:5D:84:C0 Hora: 10:54:40.288
+Se envia ack a: 1C:17:D3:5D:84:C0 Hora: 10:54:40.288 con ip: 192.168.10.67
+Se libera ip por vencimiento de tiempo: 192.168.10.68 Hora: 10:54:44.146
+Request recibido MAC: 00:25:11:3F:B0:5B Hora: 10:54:44.232
+Se envia ack a: 00:25:11:3F:B0:5B Hora: 10:54:44.233 con ip: 192.168.10.68
+Se libera ip por vencimiento de tiempo: 192.168.10.67 Hora: 10:55:10.285
+Request recibido MAC: 1C:17:D3:5D:84:C0 Hora: 10:55:10.294
+Se envia ack a: 1C:17:D3:5D:84:C0 Hora: 10:55:10.295 con ip: 192.168.10.67
+Se libera ip por vencimiento de tiempo: 192.168.10.68 Hora: 10:55:14.192
+Request recibido MAC: 00:25:11:3F:B0:5B Hora: 10:55:14.265
+Se envia ack a: 00:25:11:3F:B0:5B Hora: 10:55:14.266 con ip: 192.168.10.68
+Se libera ip por vencimiento de tiempo: 192.168.10.67 Hora: 10:55:40.294
+Request recibido MAC: 1C:17:D3:5D:84:C0 Hora: 10:55:40.303
+Se envia ack a: 1C:17:D3:5D:84:C0 Hora: 10:55:40.304 con ip: 192.168.10.67
+Se libera ip por vencimiento de tiempo: 192.168.10.68 Hora: 10:55:44.240
+Request recibido MAC: 00:25:11:3F:B0:5B Hora: 10:55:44.296
+Se envia ack a: 00:25:11:3F:B0:5B Hora: 10:55:44.296 con ip: 192.168.10.68
+Se libera ip por vencimiento de tiempo: 192.168.10.67 Hora: 10:56:10.301
+Request recibido MAC: 1C:17:D3:5D:84:C0 Hora: 10:56:10.307
+Se envia ack a: 1C:17:D3:5D:84:C0 Hora: 10:56:10.307 con ip: 192.168.10.67
+Se libera ip por vencimiento de tiempo: 192.168.10.68 Hora: 10:56:14.275
+Request recibido MAC: 00:25:11:3F:B0:5B Hora: 10:56:14.328
+Se envia ack a: 00:25:11:3F:B0:5B Hora: 10:56:14.328 con ip: 192.168.10.68
+Se libera ip por vencimiento de tiempo: 192.168.10.67 Hora: 10:56:40.308
+Request recibido MAC: 1C:17:D3:5D:84:C0 Hora: 10:56:40.313
+Se envia ack a: 1C:17:D3:5D:84:C0 Hora: 10:56:40.314 con ip: 192.168.10.67
+Se libera ip por vencimiento de tiempo: 192.168.10.68 Hora: 10:56:44.304
+Request recibido MAC: 00:25:11:3F:B0:5B Hora: 10:56:44.376
+Se envia ack a: 00:25:11:3F:B0:5B Hora: 10:56:44.376 con ip: 192.168.10.68
+Se libera ip por vencimiento de tiempo: 192.168.10.67 Hora: 10:57:10.310
+Request recibido MAC: 1C:17:D3:5D:84:C0 Hora: 10:57:10.319
+Se envia ack a: 1C:17:D3:5D:84:C0 Hora: 10:57:10.320 con ip: 192.168.10.67
+Se libera ip por vencimiento de tiempo: 192.168.10.68 Hora: 10:57:14.333
+Request recibido MAC: 00:25:11:3F:B0:5B Hora: 10:57:14.408
+Se envia ack a: 00:25:11:3F:B0:5B Hora: 10:57:14.409 con ip: 192.168.10.68
+Se libera ip por vencimiento de tiempo: 192.168.10.67 Hora: 10:57:40.318
+Request recibido MAC: 1C:17:D3:5D:84:C0 Hora: 10:57:40.326
+Se envia ack a: 1C:17:D3:5D:84:C0 Hora: 10:57:40.326 con ip: 192.168.10.67
+Se libera ip por vencimiento de tiempo: 192.168.10.68 Hora: 10:57:44.382
+Request recibido MAC: 00:25:11:3F:B0:5B Hora: 10:57:44.439
+Se envia ack a: 00:25:11:3F:B0:5B Hora: 10:57:44.440 con ip: 192.168.10.68
+Se libera ip por vencimiento de tiempo: 192.168.10.67 Hora: 10:58:10.326
+Request recibido MAC: 1C:17:D3:5D:84:C0 Hora: 10:58:10.335
+Se envia ack a: 1C:17:D3:5D:84:C0 Hora: 10:58:10.335 con ip: 192.168.10.67
+Se libera ip por vencimiento de tiempo: 192.168.10.68 Hora: 10:58:14.418
+Se libera ip por vencimiento de tiempo: 192.168.10.67 Hora: 10:58:40.334
+Request recibido MAC: 1C:17:D3:5D:84:C0 Hora: 10:58:40.338
+Se envia ack a: 1C:17:D3:5D:84:C0 Hora: 10:58:40.340 con ip: 192.168.10.67
+Se libera ip por vencimiento de tiempo: 192.168.10.68 Hora: 10:58:44.447
+Discover recibido MAC: 00:25:11:3F:B0:5B Hora: 10:59:01.436
+Se envia offer a MAC: 00:25:11:3F:B0:5B Hora: 10:59:01.437 con la ip: 192.168.10.67 tiempo: 00:01
+Discover recibido MAC: 00:25:11:3F:B0:5B Hora: 10:59:05.446
+Se envia offer a MAC: 00:25:11:3F:B0:5B Hora: 10:59:05.447 con la ip: 192.168.10.67 tiempo: 00:01
+Discover recibido MAC: 00:25:11:3F:B0:5B Hora: 10:59:09.455
+Se envia offer a MAC: 00:25:11:3F:B0:5B Hora: 10:59:09.456 con la ip: 192.168.10.67 tiempo: 00:01
+Se libera ip por vencimiento de tiempo: 192.168.10.67 Hora: 10:59:10.338
+Request recibido MAC: 1C:17:D3:5D:84:C0 Hora: 10:59:10.345
+Se envia ack a: 1C:17:D3:5D:84:C0 Hora: 10:59:10.345 con ip: 192.168.10.67
+Discover recibido MAC: 00:25:11:3F:B0:5B Hora: 10:59:13.465
+Se envia offer a MAC: 00:25:11:3F:B0:5B Hora: 10:59:13.466 con la ip: 192.168.10.67 tiempo: 00:01
+Discover recibido MAC: 00:25:11:3F:B0:5B Hora: 10:59:17.475
+Se envia offer a MAC: 00:25:11:3F:B0:5B Hora: 10:59:17.476 con la ip: 192.168.10.67 tiempo: 00:01
+Discover recibido MAC: 00:25:11:3F:B0:5B Hora: 10:59:21.484
+Se envia offer a MAC: 00:25:11:3F:B0:5B Hora: 10:59:21.492 con la ip: 192.168.10.67 tiempo: 00:01
